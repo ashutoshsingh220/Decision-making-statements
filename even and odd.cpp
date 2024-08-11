@@ -1,3 +1,7 @@
+// Write a code to check if a number is even or odd
+// ASHUTOSH SINGH
+// 23070123033
+
 #include <iostream>
 using namespace std;
 int main()
