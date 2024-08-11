@@ -1,3 +1,7 @@
+// Code to check if a character is a vowel or consonant.
+// ASHUTOSH SINGH
+// 23070123033
+
 #include <iostream>
 using namespace std;
 int main()
